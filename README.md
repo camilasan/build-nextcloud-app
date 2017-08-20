@@ -38,6 +38,6 @@ An application that adds extra functionality. For example Contacts, Calendar...
 
 # Links
 - [Nextcloud apps](https://apps.nextcloud.com/developer/apps/generate)
-- [Developer Manual] (https://docs.nextcloud.com/server/12/developer_manual/index.html)
+- [Developer Manual](https://docs.nextcloud.com/server/12/developer_manual/index.html)
 - [Nextcloud API](https://doc.owncloud.org/api/namespaces/OCP.html)
 
