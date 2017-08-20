@@ -14,7 +14,7 @@ An application that adds extra functionality. For example Contacts, Calendar...
 
 ## Create the skeleton
 
-- Go to the apps store at [apps.nextcloud.com](https://apps.nextcloud.com)
+- Go to [apps.nextcloud.com](https://apps.nextcloud.com)
 - Menu 'App Developer'
 - Click on 'Generate app'
 - Fill up the form
@@ -37,7 +37,7 @@ An application that adds extra functionality. For example Contacts, Calendar...
 - tests/: the tests
 
 # Links
-- [Nextcloud apps](https://apps.nextcloud.com/developer/apps/generate)
+- [Generate App](https://apps.nextcloud.com/developer/apps/generate)
 - [Developer Manual](https://docs.nextcloud.com/server/12/developer_manual/index.html)
 - [Nextcloud API](https://doc.owncloud.org/api/namespaces/OCP.html)
 
