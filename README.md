@@ -43,18 +43,19 @@ An application that adds extra functionality. For example Contacts, Calendar...
 The most up to date code and documentation you will find on Github:
 
 - [Nextcloud API](https://github.com/nextcloud/server/tree/master/lib/public)
+All the folders and files under lib/public
 
 - [OCP\IPreview](https://github.com/nextcloud/server/blob/master/lib/public/IPreview.php)
-  e.g. to get an image preview/thumbnail
+e.g. to get an image preview/thumbnail
 
 - [OCP\Files\IRootFolder](https://github.com/nextcloud/server/blob/master/lib/public/Files/IRootFolder.php)
-  e.g. to get the path to a file
+e.g. to get the path to a file
 
 - [The Gallery app API](https://github.com/nextcloud/gallery/wiki/RESTful-API)
-  e.g. to create thumbnails, crop
+e.g. to create thumbnails, crop
 
 - [HTTP](https://github.com/nextcloud/server/tree/master/lib/public/AppFramework/Http)
-  e.g. format the response
+e.g. format the response to a request
 
 
 # Links
