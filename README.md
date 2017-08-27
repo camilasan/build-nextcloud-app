@@ -10,6 +10,9 @@ Quick and dirt steps:
 - If you are using git clone to get Nextcloud you also need to run:
   - git submodule init &&
   - git submodule update
+
+  (see this [link](https://help.nextcloud.com/t/10-0-1-fails-with-a-call-to-undefined-function/3700/5))
+  
 - 'cd' into the folder
 - Execute 'php -S localhost:8080'
 
