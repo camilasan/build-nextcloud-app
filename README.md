@@ -7,6 +7,9 @@ If you haven't done it already...
 
 Quick and dirt steps:
 - Download it from the [website](https://nextcloud.com/install/#instructions-server) or [github](https://docs.nextcloud.com/server/12/developer_manual/app/tutorial.html)
+- If you are using git clone to get Nextcloud you also need to run:
+  - git submodule init &&
+  - git submodule update
 - 'cd' into the folder
 - Execute 'php -S localhost:8080'
 
